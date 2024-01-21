@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: ElMessiri-Regular;
-  src: url("../webfonts/ElMessiri-Regular.ttf");
+  src: url("./webfonts/ElMessiri-Regular.ttf");
 }
 
 @font-face {
   font-family: ElMessiri-Bold;
-  src: url("../webfonts/ElMessiri-Bold.ttf");
+  src: url("./webfonts/ElMessiri-Bold.ttf");
 }
 
 body {
