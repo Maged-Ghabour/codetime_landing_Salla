@@ -404,7 +404,23 @@ header .social i {
   padding: 3rem;
 } */
 
+@media (max-width: 1180px) {
+  .packages .package {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 950px) {
+  .packages .package {
+    max-width: 346px;
+  }
+}
 @media (max-width: 768px) {
+  .packages .package {
+    max-width: 80%;
+  }
+}
+
   .packages {
     padding: 0;
     margin: 4rem 0;
